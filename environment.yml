@@ -9,6 +9,4 @@ dependencies:
   - scipy
   - jupyter
   - nbformat
-  - pip
-  - pip:
-    - nmrglue
+  
