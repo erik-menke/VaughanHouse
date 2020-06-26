@@ -10,4 +10,5 @@ dependencies:
   - jupyter
   - nbformat
   - nbconvert
-  
+  - pandoc
+  - xetex
